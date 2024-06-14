@@ -1,4 +1,4 @@
-# HTML email signature kit
+# HTML Email Signature Kit for Seamless Branding
 
 This is a simple HTML email signature kit that you can use to create your own email signature.
 
@@ -15,6 +15,22 @@ This repository contains the HTML tags in `tags` repository and email signature 
 This repository contains a set of HTML tags in `tags` folder. You can use these tags to create your own email signature. These tags are designed to be used in a table layout which is supported by most email clients.
 
 ### Templates
+
+#### HTML templates
+
+If you want to use the whole template, you can use the HTML templates in `html-templates` folder. These templates are designed to be used in a table layout. You can use these templates as a starting point and customize them according to your needs.
+
+For custom configurations, please:
+
+- Replace `HREF` with your own links
+- Replace `SRC` with your own image URLs
+- Replace `ALT` with your own alt (description) text
+- Replace `test@example.com` with your own email address
+- Replace `123456789` with your own phone number
+- Replace `https://example.com` with your own website
+- Replace all the visible text with your own text
+
+Or replace those with variables if you use some templating engine for example our [Free Signature Manager for Gmail™](https://www.revolgy.com/google-workspace/gmail-signature-manager).
 
 #### Vue templates
 
